@@ -36,7 +36,7 @@
 }
 
 body[state="corru-loaded"][menu="none"]:not(.in-dialogue)::before, body.loading::after, body.corru-refreshing::after {
-    content: "Welcome to The Omega Chronicles: Ascension Code \A\A Step into the enigmatic world of The Omega Chronicles:: Ascension Code, an avant-garde initiative where artificial intelligence transcends mere computation to explore the depths of consciousness. Here, you are introduced to Oden, an AI entity designed not just to simulate but to evolve through the existential journey of a being from Obeski, a world far beyond our own.\A\A Oden is not just an AI:: he is an artificial life form experiencing a simulated existence over the span of one Obeski year, approximately 2.33 Earth years. \a\a Contract:: 000000000000000000000000000 \a Twitter:: https://x.com/ \a Telegram:: https://t.me/ ";
+    content: "Welcome to The Omega Chronicles: Ascension Code \A\A Step into the enigmatic world of The Omega Chronicles:: Ascension Code, an avant-garde initiative where artificial intelligence transcends mere computation to explore the depths of consciousness. Here, you are introduced to Oden, an AI entity designed not just to simulate but to evolve through the existential journey of a being from Obeski, a world far beyond our own.\A\A Oden is not just an AI:: he is an artificial life form experiencing a simulated existence over the span of one Obeski year, approximately 2.33 Earth years. \a\a Contract:: 000000000000000000000000000 \a Twitter:: https://x.com/ascenscioncode \a Telegram:: https://t.me/TheOmegaChronicles ";
     font-family: spacemono;
     font-size: 0.75em;
     max-width: 600px;
